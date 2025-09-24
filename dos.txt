@@ -1,1 +1,3 @@
 este es el segundo documento que yo creo para git.
+ 
+le he cambiado algo después del primer commit.
